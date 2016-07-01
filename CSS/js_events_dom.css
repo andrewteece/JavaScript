@@ -1,0 +1,24 @@
+h1 {
+	margin-left: 15px;
+}
+
+button {
+	width: 150px;
+	background-color: #00CC00;
+	margin-left: 15px;
+	font-size: 120%;
+	border-radius: 8px;
+}
+
+p {
+	border: 2px solid black;
+	text-align: center;
+	margin: 20px;
+	width: 250px;
+}
+
+#stuff {
+	text-align: center;
+	color: white;
+	background-color: #7F7F7F;
+}
