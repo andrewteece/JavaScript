@@ -1,0 +1,25 @@
+.closed {
+	display: none;
+}
+
+.open {
+	display: block;
+}
+
+h1, p {
+	margin-left: 15px;
+}
+
+button {
+	width: 150px;
+	background-color: #CC00EE;
+	margin-left: 15px;
+	font-size: 120%
+}
+
+#demo {
+	color: white;
+	background-color: #7F7F7F;
+	padding: 10px;
+	font-size: 120%
+}
